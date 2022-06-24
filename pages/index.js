@@ -21,8 +21,9 @@ export default function Home() {
 
       <main className={styles.main}>
         <p className={styles.description}>
-          We're the recycling and junk removal company that ensures your junk is
-          recycled, repurposed, donated, or otherwise responsibly disposed of.
+          We&apos;re the recycling and junk removal company that ensures your
+          junk is recycled, repurposed, donated, or otherwise responsibly
+          disposed of.
         </p>
         <p className={styles.description}>
           Your junk is carefully separated to be later remanufactured,
