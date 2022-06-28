@@ -49,6 +49,7 @@
   margin: 4rem 5rem;
   line-height: 1.5;
   font-size: 1.5rem;
+  display: inline-block;
 }
 
 @media (max-width: 600px) {

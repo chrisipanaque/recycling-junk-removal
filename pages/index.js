@@ -15,11 +15,15 @@ export default function Home() {
         </h1>
         <h2>Mon-Sun 07:00AM - 6:00PM</h2>
         <h2>
-          Call us <a href="tel:206-430-0742">(206) 430-0742</a>
+          Text us <a href="tel:206-430-0742">(206) 430-0742</a>
         </h2>
       </header>
 
       <main className={styles.main}>
+        <p className={styles.description}>
+          Looking for a cheap, same day, junk removal pick up? Text us a photo
+          of your junk now! <a href="tel:206-430-0742">(206) 430-0742</a>
+        </p>
         <p className={styles.description}>
           We&apos;re the recycling and junk removal company that ensures your
           junk is recycled, repurposed, donated, or otherwise responsibly
@@ -35,7 +39,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <span>Call us today for a free quote</span>
+        <span>Text us for a free quote</span>
         <span>
           <a href="tel:206-430-0742">(206) 430-0742</a>
         </span>
